@@ -1,4 +1,4 @@
--- INSERT INTO "Movies" (id, "Title", "Genre", "Release Date", "IMDB Url") 
+-- INSERT INTO "Movies" (id, "Title", "Genre", "Release Date", "IMDB Url")
 -- VALUES (1, 'Toy Story', 'Animation', 'November 22, 1995', 'https://www.imdb.com/title/tt0114709/?ref_=fn_al_tt_1'),
 -- (2, 'Jaws', 'Adventure', 'June 20, 1975', 'https://www.imdb.com/title/tt0073195/?ref_=fn_al_tt_1'),
 -- (3, 'Groundhog Day', 'Comedy', 'February 12, 1993', 'https://www.imdb.com/title/tt0107048/?ref_=nv_sr_1'),
